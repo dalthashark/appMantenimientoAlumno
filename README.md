@@ -29,5 +29,5 @@ El código fuente está estructurado mediante el patrón de arquitectura limpia 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   [git clone https://github.com/dalthashark/appMantenimientoAlumno.git
+   git clone https://github.com/dalthashark/appMantenimientoAlumno.git
    ```
